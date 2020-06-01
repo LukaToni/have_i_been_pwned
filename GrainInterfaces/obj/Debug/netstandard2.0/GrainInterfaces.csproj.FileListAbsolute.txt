@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\HaveIBeenPwned\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.deps.json
+C:\Users\Admin\source\repos\HaveIBeenPwned\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.dll
+C:\Users\Admin\source\repos\HaveIBeenPwned\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.pdb
+C:\Users\Admin\source\repos\HaveIBeenPwned\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.orleans.g.args.txt
+C:\Users\Admin\source\repos\HaveIBeenPwned\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.orleans.g.cs
+C:\Users\Admin\source\repos\HaveIBeenPwned\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HaveIBeenPwned\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HaveIBeenPwned\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HaveIBeenPwned\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.dll
+C:\Users\Admin\source\repos\HaveIBeenPwned\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.pdb
