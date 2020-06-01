@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\bin\Debug\netstandard2.0\Grains.deps.json
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\bin\Debug\netstandard2.0\Grains.dll
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\bin\Debug\netstandard2.0\Grains.pdb
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\bin\Debug\netstandard2.0\GrainInterfaces.dll
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\bin\Debug\netstandard2.0\GrainInterfaces.pdb
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\obj\Debug\netstandard2.0\Grains.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\obj\Debug\netstandard2.0\Grains.orleans.g.args.txt
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\obj\Debug\netstandard2.0\Grains.orleans.g.cs
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\obj\Debug\netstandard2.0\Grains.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\obj\Debug\netstandard2.0\Grains.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\obj\Debug\netstandard2.0\Grains.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\obj\Debug\netstandard2.0\Grains.csproj.CopyComplete
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\obj\Debug\netstandard2.0\Grains.dll
+C:\Users\Admin\source\repos\HaveIBeenPwned\Grains\obj\Debug\netstandard2.0\Grains.pdb
